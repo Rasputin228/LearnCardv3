@@ -33,6 +33,11 @@ LearnCardsv3 (Description created with the support of DeepSeek AI)
 - **Glide** - загрузка изображений
 - **Gson** - работа с JSON
 
+
+
+
+
+
 ##Структура проекта
 app/src/main/java/com/example/v3/
 ├──MainActivity.kt          # Главный экран
